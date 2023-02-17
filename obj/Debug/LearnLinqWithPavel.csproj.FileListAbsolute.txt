@@ -1,0 +1,8 @@
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\bin\Debug\LearnLinqWithPavel.exe.config
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\bin\Debug\LearnLinqWithPavel.exe
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\bin\Debug\LearnLinqWithPavel.pdb
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\obj\Debug\LearnLinqWithPavel.csproj.AssemblyReference.cache
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\obj\Debug\LearnLinqWithPavel.csproj.SuggestedBindingRedirects.cache
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\obj\Debug\LearnLinqWithPavel.csproj.CoreCompileInputs.cache
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\obj\Debug\LearnLinqWithPavel.exe
+C:\Users\andis.ramza\source\repos\LearnLinqWithPavel\obj\Debug\LearnLinqWithPavel.pdb
